@@ -1,0 +1,6 @@
+{
+  "version": "0.2",
+  "status": "deprecated_not_used_by_runner",
+  "notes": "The active MVP input is config/event_candidates.json. The old 2018 Iran-deal and 2019 Huawei first-term Trump examples were removed from active seed data and are not exported as main-scope results.",
+  "events": []
+}
